@@ -162,6 +162,7 @@
         <module>user-details-service</module>
         <module>storage-service</module>
         <module>auth-service</module>
+        <module>api-gateway</module>
     </modules>
 
     <build>
